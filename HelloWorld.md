@@ -6,11 +6,11 @@ If you are reading this file in the summer of 2014, then you are most likely ano
 
 ##This is a markdown file
 
-As other students, I have made this [Markdown] [5] document with a [live editor] [6]. Hence all the text that you see here is was made using markdown. To download markdown on your computer visit this [download site] [7]. For learning purposes you can also [fork][8] the [Markdown Cheatsheet] [9] from *Adam Pritchard*. In this way you also experiment with **GitHub**. Please read his instructions carefully as his content is also public. *- I have forked it for me already*.
+As other students, I have made this [Markdown] [5] document with a [live editor] [6]. Hence all the text that you see here was made using markdown syntax; in my VIM editor I had to make it recognize the syntax =/. But to download markdown editor on your computer visit this [download site] [7]. For learning purposes you can also [fork][8] the [Markdown Cheatsheet] [9] from *Adam Pritchard*. In this way you also experiment with **GitHub**. Please read his instructions carefully as his content is also public. *- I have forked it for me already*.
 
 In addition you can also play with markdown on your [emails !][10], *Pritchard* also has it on its **GitHub repo**.... any guess where the link is  ? =). Hint: *I am cheating !* .... 
 
-In case you wounder by know why I assumed you were a student from the [Data Scientist’s toolbox][11] online course,  let me just explain it to you. One of the course assignments was to make a *sample markdown document* like this one, set the heading "This is a markdown file", *push* it to GitHub, and allow other to evaluate it. If you read some of the material I have already provided you in the links above, you should know that the code behind this. *Dont mind the {}.*
+In case you wounder by now why I assumed you were a student from the [Data Scientist’s toolbox][11] online course,  let me just explain it to you. One of the course assignments was to make a *sample markdown document* like this one, set the heading "This is a markdown file", *push* it to **GitHub**, and allow others to evaluate it. If you read some of the material I have already provided you in the links above you should know what the code behind this heading is. *Don’t mind the {}.*
 
     {
         ##This is a markdown file
@@ -18,12 +18,12 @@ In case you wounder by know why I assumed you were a student from the [Data Scie
 
 #Other Online CourseWares 
 
-In addition to **COURSERA**, some of you may know about **[edx][12]**, a similar initiative by many universities. You can also check the **[MIT OCW][13]** which in my perspective was one of the first *[OpenCourseWares][14]* ever to exist and host a wide variety of contents, video lectures, pdfs and more. For me it all started there =). Other universities have join this **OCW** effort during the years and the consortium **[OCWC][15]** was born: *The Global Network for Open Education*. From there on you can branch to other university sites which may are not yet in  **edx** or **COURSERA**. If you find more sites that don’t branch from the previous, please share !
+In addition to **COURSERA**, some of you may know about **[edx][12]**, a similar initiative by many universities. You can also check the **[MIT OCW][13]** which in my perspective was one of the first *[OpenCourseWares][14]* ever to exist and hosts a wide variety of contents, video lectures, pdfs and more. For me it all started there =). Other universities have joined this **OCW** effort during the years and the consortium **[OCWC][15]** was born: *The Global Network for Open Education*. From there on you can branch to other university sites which may are not yet be in **edx** or **COURSERA**. If you find more sites that don’t branch from the previous, please share !
 
 ![alt text][16]
 
 #Resources for Entrepreneurs 
-Have you ever wanted to make your [startup][17], and want to bring this to a South American market like **[Colombia][18]**.Well, there are some guys that can help you with that, and even find [entrepreneurs][19] like you. Meet the group **[GET][20]** from Bogotá, the one and only of its kind. *"GET is an organization that promotes and facilitates entrepreneurship among college students by creating creative spaces where they can meet each other .."*.Other resources you maybe interested are listed below. If you know more please share!
+Have you ever wanted to make your [startup][17], and perhaps bring it to a South American market like **[Colombia][18]**.Well, there are some guys that can help you with that, and to find [entrepreneurs][19] like you. Meet the group **[GET][20]** from Bogotá, the one and only of its kind. *"GET is an organization that promotes and facilitates entrepreneurship among college students by creating creative spaces where they can meet each other .."*.Other resources you maybe interested are listed below. If you know more please share!
 
  - [Startup Pirates][21]
  - [Green Challenge][22]

@@ -1,4 +1,3 @@
-#Markdown Live Editor#
 #Hi Everyone !!
 
 If you are reading this file in the summer of 2014, then you are most likely another student like myself in the online course of [Data Scientist’s toolbox][1] from the [Johns Hopkins University] [2], provided by their [Bloomberg School of Public Health] [3]. If you are not a fellow student, you can still find this information useful if possible.

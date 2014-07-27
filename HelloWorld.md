@@ -1,4 +1,3 @@
-<p><markdown>
 #Markdown Live Editor#
 #Hi Everyone !!
 
@@ -68,4 +67,4 @@ I am a recent graduate in [Sustainable Energy Technology][25] from the **[TU Ein
   [28]: http://www.uninorte.edu.co/
   [29]: https://www.linkedin.com/in/amstriedinger
   [30]: https://twitter.com/astriedinger
-</markdown></p>
+
